@@ -1,4 +1,4 @@
-# wordpressCompanyWebsite
+# wordpress is used for this project
 This is a company website which showcase the company work and area they work like web devlopment ,web designing etc.
 ![Screenshot 2023-11-07 155115](https://github.com/HrstPathak/wordpressCompanyWebsite/assets/89193946/6f27fa7a-17e4-4fd3-9f47-a3e2412787cf)
 ![Screenshot 2023-11-07 155136](https://github.com/HrstPathak/wordpressCompanyWebsite/assets/89193946/7c8ed6a6-270b-4a6a-816b-4d6be3671e6c)
